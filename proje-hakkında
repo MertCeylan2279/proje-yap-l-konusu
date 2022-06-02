@@ -1,0 +1,16 @@
+projenin adı: ardiuno engelden kaçşan robot
+proje amacı: robot her engel gördüğünde mesafe sensörünün aktif hale gelmesi 
+proje için gerekli malzemeler :
+
+L298N Voltaj Regulatörlü Çift Motor Sürücü Kartı
+HC-SR04 Ultrasonik Mesafe Sensörü
+Pil ( Alkalin piller robotu yaklaşık 15 dk. verimli şekilde çalıştıracaktır. ...
+Arduino Uno.
+Jumper.
+Tekerlek ve DC Motor
+
+projeyi yapan : Muhammet Ege Mızrak , Mert Ceylan 
+
+sınıf : 10/A
+
+numaralar: 218,2279
